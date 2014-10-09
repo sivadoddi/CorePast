@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<listOfItems>
+    <list>
+        <name>Siva Sankar Doddi</name>
+        <designation>Software engineer</designation>
+        <company>Paradigm Creatives</company>
+        <location>Visakhapatnam</location>
+    </list>
+    <list>
+        <name>Siva Vardhan Reddy</name>
+        <designation>Software engineer</designation>
+        <company>Paradigm Creatives</company>
+        <location>Visakhapatnam</location>
+    </list>
+    <list>
+        <name>Girish P</name>
+        <designation>Software engineer</designation>
+        <company>Paradigm Creatives</company>
+        <location>Visakhapatnam</location>
+    </list>
+    <list>
+        <name>Anand D</name>
+        <designation>Software engineer</designation>
+        <company>Paradigm Creatives</company>
+        <location>Visakhapatnam</location>
+    </list>
+    <list>
+        <name>Babul</name>
+        <designation>Software engineer</designation>
+        <company>Paradigm Creatives</company>
+        <location>Visakhapatnam</location>
+    </list>
+    <list>
+        <name>Karthik</name>
+        <designation>Software engineer</designation>
+        <company>Paradigm Creatives</company>
+        <location>Visakhapatnam</location>
+    </list>
+    <list>
+        <name>Satish</name>
+        <designation>Software engineer</designation>
+        <company>Paradigm Creatives</company>
+        <location>Visakhapatnam</location>
+    </list>
+</listOfItems>
